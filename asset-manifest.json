@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jack-start-react/static/css/main.073c9b0a.css",
+    "main.js": "/jack-start-react/static/js/main.b54237cf.js",
+    "static/js/787.ed07e9d8.chunk.js": "/jack-start-react/static/js/787.ed07e9d8.chunk.js",
+    "index.html": "/jack-start-react/index.html",
+    "main.073c9b0a.css.map": "/jack-start-react/static/css/main.073c9b0a.css.map",
+    "main.b54237cf.js.map": "/jack-start-react/static/js/main.b54237cf.js.map",
+    "787.ed07e9d8.chunk.js.map": "/jack-start-react/static/js/787.ed07e9d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b54237cf.js"
+  ]
+}
